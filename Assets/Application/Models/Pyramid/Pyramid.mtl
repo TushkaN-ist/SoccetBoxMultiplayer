@@ -1,0 +1,16 @@
+newmtl Body
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd base.png
+
+newmtl Entrance
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Ka entrance_lum.png
+map_Kd entrance.png
+
+newmtl Cap
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd cap.png
